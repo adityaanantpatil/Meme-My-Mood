@@ -1,0 +1,24 @@
+body {
+    background: #050518;
+    color: #f8f9fa;
+    font-family: "Poppins", sans-serif;
+}
+
+.title {
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+.main-card {
+    background: rgba(16, 16, 40, 0.95);
+    border-radius: 1.25rem;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+.stream {
+    width: 100%;
+    border-radius: 1rem;
+    background: #000;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+}
